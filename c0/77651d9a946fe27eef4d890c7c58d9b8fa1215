@@ -1,0 +1,39 @@
+src/core/hooks/useActivities.ts
+  s_5a9b597b23a1ab::t_26a79e436651a9 124-130
+src/components/ContributionHeatmap.tsx
+  s_5a9b597b23a1ab::t_e1f0561e3491b9 96-100
+  s_5a9b597b23a1ab::t_804c0a75054bdf 79-81
+  s_5a9b597b23a1ab::t_337febfc6f4b37 1
+src/components/Header.tsx
+  s_5a9b597b23a1ab::t_4147837b300205 35-37,39,46
+src/components/ActivityLog.tsx
+  s_5a9b597b23a1ab::t_f7bcf475e04730 75
+  s_5a9b597b23a1ab::t_3d7fb17f32d93f 55-57
+  s_5a9b597b23a1ab::t_0a55d857a18b6a 66
+src/components/ErrorBoundary.tsx
+  s_5a9b597b23a1ab::t_a8859814500ddd 1-55
+src/components/StatsCards.tsx
+  s_5a9b597b23a1ab::t_55642a9fbe26a8 49-51,53-55,57-59
+  s_5a9b597b23a1ab::t_f800daa4614033 86,88-90
+  s_5a9b597b23a1ab::t_5288800d76a1c7 78-79
+  s_5a9b597b23a1ab::t_7b195ff3c2004c 106-107
+src/App.tsx
+  s_5a9b597b23a1ab::t_bdef2f4a7aa81d 4
+  s_5a9b597b23a1ab::t_2d9f50b1094848 19-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "c077651d9a946fe27eef4d890c7c58d9b8fa1215",
+  "prompts": {},
+  "sessions": {
+    "s_5a9b597b23a1ab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee12e06c-15a8-4532-a230-bbcf6df21879",
+        "model": "glm-5.2"
+      },
+      "human_author": "zhaohongxuan <hxzhenu@gmail.com>"
+    }
+  }
+}
