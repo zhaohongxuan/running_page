@@ -1,0 +1,19 @@
+config.yml
+  s_5a9b597b23a1ab::t_37fe2f1a393099 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "98f7350512dcbb6a813b42254faf1793bfd23bfc",
+  "prompts": {},
+  "sessions": {
+    "s_5a9b597b23a1ab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee12e06c-15a8-4532-a230-bbcf6df21879",
+        "model": "glm-5.2"
+      },
+      "human_author": "zhaohongxuan <hxzhenu@gmail.com>"
+    }
+  }
+}
