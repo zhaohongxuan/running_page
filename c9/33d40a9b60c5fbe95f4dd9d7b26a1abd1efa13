@@ -1,0 +1,21 @@
+README.md
+  s_14dfd98a797e06::t_9a179a294a9d64 198-223
+README-CN.md
+  s_14dfd98a797e06::t_14cba1aaa0fc2d 208-233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "c933d40a9b60c5fbe95f4dd9d7b26a1abd1efa13",
+  "prompts": {},
+  "sessions": {
+    "s_14dfd98a797e06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e6bb97b-38c8-4f31-b7e7-3b3940ea3545",
+        "model": "ep-07p4u7vn"
+      },
+      "human_author": "zhaohongxuan <hxzhenu@gmail.com>"
+    }
+  }
+}
