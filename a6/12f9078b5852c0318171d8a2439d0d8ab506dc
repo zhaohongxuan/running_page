@@ -1,0 +1,18 @@
+README-CN.md
+  s_14dfd98a797e06::t_14cba1aaa0fc2d 208-233,302-319,384-410
+README.md
+  s_14dfd98a797e06::t_9a179a294a9d64 198-223,299-316,381-407
+.github/workflows/run_data_sync.yml
+  s_14dfd98a797e06::t_3d1773a5c2cc23 29
+  s_14dfd98a797e06::t_ac8bf7695b8d66 148-154
+run_page/strava_web_sync.py
+  s_14dfd98a797e06::t_3a51c9e7239932 30-38
+  s_14dfd98a797e06::t_454e772db23618 84-85
+  s_14dfd98a797e06::t_b692d419ada40d 205-207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "a612f9078b5852c0318171d8a2439d0d8ab506dc",
+  "prompts": {}
+}
